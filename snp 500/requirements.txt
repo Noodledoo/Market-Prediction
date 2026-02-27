@@ -1,0 +1,13 @@
+# Core (required)
+pandas>=1.5
+scikit-learn>=1.2
+numpy>=1.23
+matplotlib>=3.6
+openpyxl>=3.0
+
+# Recommended
+pygame>=2.1          # Interactive training dashboards
+yfinance>=0.2        # Auto-fetch new S&P 500 data
+
+# Optional
+torch>=2.0           # LSTM models + DQN snake AI
